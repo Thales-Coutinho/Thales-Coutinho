@@ -2,10 +2,14 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thales-Coutinho&layout=compact&theme=dark)
 
 ##
-
-<a href="https://www.linkedin.com/in/thales-martim-coutinho" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-</a>
+<div>
+  <a href="https://www.linkedin.com/in/thales-martim-coutinho" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  <a href="mailto:thales9696@protonmail.com">
+    <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank">
+  </a>
+</div>
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
